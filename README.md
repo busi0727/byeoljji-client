@@ -54,9 +54,9 @@ Open with **Right Shift** or the **✦ 별찌 Client Settings** button on the pa
 
 ## Screenshots
 
-| Home | Mods | In-game settings |
+| Home | Mods | Title screen |
 |---|---|---|
-| ![Home](assets/screenshot-home.png) | ![Mods](assets/screenshot-mods.png) | ![In-game](assets/screenshot-ingame.png) |
+| ![Home](assets/screenshot-home.png) | ![Mods](assets/screenshot-mods.png) | ![Title screen](assets/screenshot-title.png) |
 
 ## Installation
 
