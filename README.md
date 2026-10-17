@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/OWNER/byeoljji-client?label=download&color=a77bff" alt="Download" /></a>
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/busi0727/byeoljji-client?label=download&color=a77bff" alt="Download" /></a>
   <img src="https://img.shields.io/badge/Minecraft-1.21.4-ff8fd1" alt="Minecraft 1.21.4" />
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-ffd76a" alt="Windows 10 | 11" />
 </p>
